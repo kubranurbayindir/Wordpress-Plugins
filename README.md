@@ -8,5 +8,5 @@ I created this websites in my internship with using HTML, CSS, JS, PHP:
 - http://www.startinturkey.com/tr/
 - http://www.paylasan.com.tr/
 
-# Wordpress-Plugins
+# Wordpress Plugins
 I generate Wordpress Plugins. This repository is about site slider and site contact page.
